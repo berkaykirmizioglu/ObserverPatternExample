@@ -1,0 +1,6 @@
+c:\users\berkay\documents\visual studio 2013\Projects\WeatherStation\WeatherStation\bin\Debug\WeatherStation.exe.config
+c:\users\berkay\documents\visual studio 2013\Projects\WeatherStation\WeatherStation\obj\Debug\WeatherStation.csprojResolveAssemblyReference.cache
+c:\users\berkay\documents\visual studio 2013\Projects\WeatherStation\WeatherStation\bin\Debug\WeatherStation.exe
+c:\users\berkay\documents\visual studio 2013\Projects\WeatherStation\WeatherStation\bin\Debug\WeatherStation.pdb
+c:\users\berkay\documents\visual studio 2013\Projects\WeatherStation\WeatherStation\obj\Debug\WeatherStation.exe
+c:\users\berkay\documents\visual studio 2013\Projects\WeatherStation\WeatherStation\obj\Debug\WeatherStation.pdb
