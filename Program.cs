@@ -19,7 +19,8 @@ namespace WeatherStation
             {
                 PhoneDisplay phoneDisplay = new PhoneDisplay(weatherStation);
 
-                phoneDisplay.Update();
+                weatherStation.Add(phoneDisplay);
+                weatherStation.Notify();
 
                 Thread.Sleep(5000);
             }
